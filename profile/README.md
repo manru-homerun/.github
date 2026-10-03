@@ -1,4 +1,13 @@
-## 야단법석 : [🔗](https://m.onestore.co.kr/v2/ko-kr/app/0001009413)
+<h2>
+  야단법석
+  <a href="https://m.onestore.co.kr/v2/ko-kr/app/0001009413">
+    <img width="24" height="24" alt="야단법석 원스토어" src="https://github.com/user-attachments/assets/9f9629be-5099-4e9b-9f71-2cd38a6464ae"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.manruhomerun.yadanbeopseok">
+    <img width="24" height="24" alt="야단법석 구글 플레이" src="https://github.com/user-attachments/assets/b8f96b02-14b9-40fb-a2eb-d1dc91e9fdb5"/>
+  </a>
+</h2>
+
 
 > 🗺️ **소속** : [2026 관광데이터 활용 공모전(웹·앱 개발 부문)](https://touraz.kr/announcementList/pssrpView?pssrpSeqEnc=pyynpMOetRuV2%5EWlc6nOag==&curPage=1)
 
